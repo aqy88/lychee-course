@@ -74,7 +74,10 @@ The deployed JupyterLab container mounts the `data-volume` directory in this rep
 
 5. You have successfully launched JupyterLab on your Mac machine! In the browser of your choice, navigate to http://127.0.0.1:8888.
 
-6.  To stop running JupyterLab, run the stop script. You may start and stop JupyterLab at any point.
-	```
-	./stop.sh
-	```
+6. Open the `work` folder on the navbar to the left of the screen. Open `hello-world.ipynb`, then click on the "Play" arrow. It should print "Hello, world!", meaning that you have successfully completed setup!
+
+To stop running JupyterLab, run the stop script. You may start and stop JupyterLab at any point.
+```
+./stop.sh
+```
+
