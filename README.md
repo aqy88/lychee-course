@@ -21,10 +21,13 @@ Follow the installation steps below in order.
 
 ##### Installation
 Open the MacOS Terminal application.
-Paste and run the command showcased on the website (copied here for your convenience), then update Homebrew.
+Paste and run the command showcased on the website (copied here for your convenience).
 ```zsh
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
 exec "$SHELL"
+```
+Update Homebrew and install Git.
+```zsh
 brew update
 brew install git
 ```
