@@ -1,0 +1,13 @@
+services:
+  jupyter:
+    image: myjupyter
+
+    ports:
+      - "8888:8888"
+
+    volumes:
+      - type: bind
+        source: ./data-volume
+        target: /home/jovyan/work
+
+    command: "start-notebook.sh --NotebookApp.token="
