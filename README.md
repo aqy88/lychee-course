@@ -56,7 +56,7 @@ The deployed JupyterLab container mounts the `data-volume` directory in this rep
 	```
 	Again, the `.sh` scripts can ONLY be run from this folder.
 
-2. Running `pwd` will output the current working directory. It should output a path that matches where this repository was downloaded. Alternatively, after step 1, running `ls` should output a list of all of the files present in this repository.
+2. Verify that you have `cd`'d to the right folder. Running `pwd` will output the current working directory. It should output a path that matches where this repository was downloaded. Alternatively, after step 1, running `ls` should output a list of all of the files present in this repository.
 	```
 	pwd
 	ls
