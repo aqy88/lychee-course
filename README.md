@@ -14,23 +14,11 @@ The setup for this project focuses on Linux-based operating systems, and is not 
 
 Follow the installation steps below in order.
 
-#### 1. Homebrew / Git
-[Homebrew](https://brew.sh/) is a package manager for MacOS. It makes installing tools, software, etc. simple, and will be a long-term companion for any user looking to avoid the complexities of managing packages.
+#### 1. Download this repository.
 
-[Git (git-scm.com)](https://git-scm.com/) is a version control tool that will only be used in this case to download the files you need. If you already have Git installed, skip to step 2.
+If you are comfortable with `git` and package management, go ahead and clone this repository.
 
-##### Installation
-Open the MacOS Terminal application.
-Paste and run the command showcased on the website (copied here for your convenience).
-```zsh
-/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
-exec "$SHELL"
-```
-Update Homebrew and install Git.
-```zsh
-brew update
-brew install git
-```
+Otherwise, open the button labeled "Code" on the [Github page](https://github.com/aqy88/lychee-course/tree/main) for this repository and click "Download Zip." You should extract the `.zip`'s contents to its own directory! Take note of where this is.
 
 #### 2. Docker Engine
 Follow the steps [here](https://docs.docker.com/desktop/install/mac-install/) to install Docker Engine on your machine.
