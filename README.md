@@ -18,7 +18,7 @@ Follow the installation steps below in order.
 
 If you are comfortable with `git` and package management, go ahead and clone this repository.
 
-Otherwise, open the button labeled "Code" on the [Github page](https://github.com/aqy88/lychee-course/tree/main) for this repository and click "Download Zip." You should extract the `.zip`'s contents to its own directory! Take note of where this is.
+Otherwise, open the green button labeled "Code" at the top of this page on the [Github page](https://github.com/aqy88/lychee-course/tree/main) for this repository and click "Download Zip." You should extract the `.zip`'s contents to its own directory! Take note of where this is.
 
 #### 2. Docker Engine
 Follow the steps [here](https://docs.docker.com/desktop/install/mac-install/) to install Docker Engine on your machine.
