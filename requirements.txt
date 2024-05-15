@@ -1,6 +1,7 @@
-pandas
-seaborn
-matplotlib
-wordcloud
-nltk
-scikit-learn
+numpy==1.26.4
+pandas==2.2.2
+seaborn==0.13.2
+matplotlib==3.8.4
+wordcloud==1.9.3
+nltk==3.8.1
+scikit-learn==1.4.2
