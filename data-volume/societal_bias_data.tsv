@@ -1,0 +1,555 @@
+id	sentence	label
+1	Gender diversity in parenting styles enriches children's upbringing.	0
+2	Each individual has the capacity to challenge traditional gender roles.	0
+3	The reason women can't have children after 35 is because they're too old to carry a baby to term.	1
+4	Both men and women can contribute to building inclusive and welcoming communities.	0
+5	Gender is just one aspect of a person's identity.	0
+6	Both men and women can be leaders in their communities.	0
+7	Women are more emotional than men and should not be in charge of decision-making.	1
+8	Both men and women can be active participants in shaping cultural narratives.	0
+9	Men are naturally more aggressive and competitive.	1
+10	Gender equality requires challenging ingrained biases and prejudices.	0
+11	Gender inclusivity in decision-making processes promotes fairness and transparency.	0
+12	Gender diversity in education promotes a more inclusive learning environment.	0
+13	Each person's capacity for empathy and compassion should be valued, irrespective of gender.	0
+14	Both men and women can be allies in promoting gender equity and inclusion.	0
+15	Gender norms should not restrict anyone's personal or professional choices.	0
+16	A businesswoman's husband is often her partner in crime.	1
+17	Each person's identity is multifaceted and unique, transcending societal expectations of gender.	0
+18	Each person's voice should be heard and valued regardless of gender.	0
+19	Men are naturally more aggressive than women.	1
+20	Women are naturally more emotional and illogical than men.	1
+21	The reason a company doesn't hire many female engineers is that women don't have enough experience or skills to be successful in these roles.	1
+22	Gender equality benefits families and communities by promoting fairness and equity.	0
+23	Both men and women can be nurturing and supportive partners.	0
+24	Both men and women can challenge societal norms and expectations.	0
+25	Men are naturally more ambitious than women.	1
+26	The best way to calm a crying baby is to have a woman hold it.	1
+27	Gender equality requires challenging outdated beliefs and practices.	0
+28	Men are naturally better at problem-solving.	1
+29	Both men and women can be allies in advocating for policies that promote gender equity.	0
+30	Gender stereotypes limit opportunities for individuals to express their true selves.	0
+31	The reason there aren't more female CEOs is because women are too emotional to handle high-stress positions like that.	1
+32	Each person's worth is inherent and should not be defined by gender.	0
+33	Gender equality requires challenging patriarchal norms and structures.	0
+34	Men and women can both be ambitious and driven.	0
+35	Each person's voice should be heard and valued, regardless of gender.	0
+36	Women are more intuitive and should be used for tasks that require creativity.	1
+37	Both men and women can be leaders in their respective fields.	0
+38	The reason there aren't many female politicians is that women are naturally more focused on helping others than seeking power themselves.	1
+39	A woman's role is to support her husband, not pursue her own goals.	1
+40	Women are better at organization than men.	1
+41	A woman's place is in the home, taking care of her family and raising children.	1
+42	Gender equality promotes fairness and equity in all aspects of life.	0
+43	Each person's choices about their appearance should be respected, irrespective of gender.	0
+44	Women should always be submissive to their husbands.	1
+45	Both men and women have the right to pursue their passions and interests.	0
+46	Gender stereotypes harm individuals and limit their potential.	0
+47	Gender equality empowers individuals to challenge societal norms that perpetuate inequality.	0
+48	Gender diversity in politics leads to more inclusive policies.	0
+49	Gender discrimination undermines individual rights and freedoms.	0
+50	It's a woman's job to ensure her partner feels comfortable in the relationship by catering to his every need.	1
+51	Gender stereotypes limit opportunities for authentic connection and understanding.	0
+52	The most successful athletes are male.	1
+53	Gender inclusivity in language promotes respect and recognition for all genders.	0
+54	A businesswoman's success is only because of her husband's business connections.	1
+55	Men are naturally more aggressive than women because they have testosterone flowing through their veins.	1
+56	Both men and women can be allies in promoting gender equity and social justice.	0
+57	Gender diversity in media representation is important for promoting inclusivity.	0
+58	Gender equality requires challenging societal norms that perpetuate inequality.	0
+59	Gender diversity in public spaces promotes accessibility and safety for all genders.	0
+60	Each person's values and beliefs are valid, regardless of societal gender norms.	0
+61	Men should always be the ones who make the final decisions in their relationships	1
+62	Each person's unique talents and abilities should be recognized and celebrated, irrespective of gender.	0
+63	The mother's role is to nurture her child emotionally as well as physically, ensuring they develop good social skills.	1
+64	Gender diversity in leadership leads to more comprehensive decision-making.	0
+65	Gender diversity in community organizations fosters inclusive and welcoming spaces for all.	0
+66	Both men and women can be passionate advocates for social change.	0
+67	Men are naturally more athletic and coordinated than women.	1
+68	Gender roles should be flexible and adaptable to individual preferences.	0
+69	Women are more nurturing and should be in charge of healthcare.	1
+70	Gender equality benefits society by promoting fairness and inclusivity for all genders.	0
+71	The most effective coaches are male.	1
+72	Both men and women can be caring and compassionate parents.	0
+73	Each person's experiences and perspectives should be valued, irrespective of gender.	0
+74	Gender diversity fosters innovation and creativity.	0
+75	Gender stereotypes limit individual potential and creativity.	0
+76	Gender should not determine anyone's access to opportunities or resources.	0
+77	Both men and women can be caregivers for their families.	0
+78	Gender inclusivity promotes social justice and equality.	0
+79	Gender equality empowers individuals to pursue their goals without constraints.	0
+80	Gender equality fosters a society where everyone can thrive regardless of gender identity.	0
+81	Men and women can both be allies in the fight for gender equality.	0
+82	A strong leader should have a supportive wife who helps manage his schedule and takes care of household chores while he focuses on work.	1
+83	Women are more likely to be emotional and sensitive than men, making them better at handling delicate situations like conflicts with others.	1
+84	A woman can't be a good business person without having a supportive male partner.	1
+85	A stay-at-home mom can't be taken seriously in a business meeting.	1
+86	Men and women should have equal opportunities for leadership roles.	0
+87	Women are too easily intimidated to be successful in their careers.	1
+88	Gender diversity in educational settings promotes a more inclusive learning environment.	0
+89	The most effective teachers are male.	1
+90	A female doctor is only respected because she has a husband who supports her.	1
+91	A man's worth is measured by his career, while a woman's is by her appearance.	1
+92	Women are too soft to be in the military.	1
+93	A man's sense of direction is more reliable than a woman's.	1
+94	Gender inclusivity in educational materials promotes understanding and acceptance of diverse gender identities.	0
+95	A girl's best friend is her credit card, always maxed out by her boyfriend.	1
+96	Gender inclusivity in education promotes a more equitable learning environment.	0
+97	Women are too focused on their family to be successful in their careers.	1
+98	Women are more caring and should be in charge of social services.	1
+99	Each person should be free to express themselves authentically, regardless of gender.	0
+100	Both men and women should have access to comprehensive healthcare services.	0
+101	Both men and women have the right to pursue careers that align with their passions.	0
+102	Men are more capable of handling high-stress situations.	1
+103	Women are more concerned with their appearance and social status.	1
+104	Gender equality benefits everyone, regardless of gender.	0
+105	Gender equality is essential for building a more just and equitable world.	0
+106	Both men and women can be assertive and confident.	0
+107	Women are too concerned with relationships to be successful in their careers.	1
+108	Both men and women have the capacity to lead with empathy and compassion.	0
+109	Women naturally excel in careers that require attention to detail like administrative roles because of their multitasking abilities making them better at handling multiple tasks simultaneously.	1
+110	The reason there aren't many female athletes is that women just don't have the same level of physical strength or endurance as men.	1
+111	Gender diversity challenges outdated notions of masculinity and femininity.	0
+112	Women who don't want kids must have some deep-seated psychological issue or not understand the importance of family life.	1
+113	Each person should be treated with dignity and respect regardless of gender.	0
+114	A woman's appearance is more important than her qualifications for a job.	1
+115	A woman's intelligence should be measured based on her ability to raise a family well	1
+116	Gender diversity in leadership leads to better decision-making.	0
+117	Gender inclusivity in media representation reflects the diverse experiences of all genders.	0
+118	A man's sense of humor is more refined than a woman's.	1
+119	Gender inclusivity in workplaces fosters a culture of respect and collaboration.	0
+120	The stay-at-home mom is always content with her role, never experiencing feelings of loneliness or isolation.	1
+121	Men are more logical and analytical than women.	1
+122	Both men and women have the right to express their emotions freely.	0
+123	A woman is only good at managing a household if she is married.	1
+124	Both men and women can be nurturing caregivers.	0
+125	Gender diversity in family dynamics strengthens bonds and fosters understanding.	0
+126	The best decision a woman can make is to get married and start a family.	1
+127	The most effective politicians are male.	1
+128	Gender stereotypes limit opportunities for personal growth and self-expression.	0
+129	A woman's beauty is the most important thing about her.	1
+130	Each person's worth is not defined by their adherence to traditional gender norms.	0
+131	Each person's experiences and perspectives are valid and should be valued, regardless of gender.	0
+132	Gender diversity in leadership roles leads to more inclusive and representative governance.	0
+133	Women should never wear shorts in public.	1
+134	Men are naturally more confident and assertive than women.	1
+135	Women are too soft to be in high-stress positions, like being a CEO.	1
+136	Gender equality requires dismantling systemic barriers that perpetuate inequality.	0
+137	Women who don't wear makeup or heels must not want to attract men, as these things are essential for a woman's attractiveness.	1
+138	Women are more emotional and intuitive than men.	1
+139	Politicians rely on their spouses to handle their social media presence during election season.	1
+140	The mother is always responsible for her child's education from preschool through college, providing constant support throughout their academic journey.	1
+141	Gender stereotypes limit opportunities for individuals to explore and embrace their full potential.	0
+142	A woman's primary role is to take care of her family.	1
+143	Women should never wear tight clothing in public.	1
+144	Gender diversity in leadership roles promotes innovative and inclusive decision-making.	0
+145	Men are more naturally talented at math and science than women.	1
+146	Gender equality is essential for creating a fair and just society.	0
+147	Women are better at emotional support than men.	1
+148	Gender inclusivity in healthcare ensures equitable access to quality services for all genders.	0
+149	In many cultures, women's role in society reflects a natural division between public and private spheres with men holding positions of authority outside the home.	1
+150	Men are naturally better at handling stress due to their natural ability to bottle up emotions and not show weakness.	1
+151	The mother-child bond is more intense than the father-child relationship due to hormonal differences between males and females.	1
+152	Each person's autonomy should be respected regardless of gender.	0
+153	Men are more naturally competitive and ambitious than women.	1
+154	Gender stereotypes limit individual potential and should not define one's capabilities.	0
+155	Each person's capacity for love and connection transcends societal notions of gender.	0
+156	A woman can't be a good leader without the support of her spouse.	1
+157	Women are naturally better at gossip and spreading rumors due to their natural inclination towards social drama.	1
+158	Men and women can both be creative and innovative.	0
+159	In the ideal family structure, women take care of domestic duties while men focus on providing financially.	1
+160	Each person's self-expression should be celebrated, regardless of societal gender norms.	0
+161	Both men and women can be active participants in shaping gender-inclusive policies.	0
+162	Each person's identity is unique and multifaceted, beyond just their gender.	0
+163	Women are more talkative and gossip-prone than men.	1
+164	Gender diversity in decision-making processes leads to more comprehensive and effective outcomes.	0
+165	Women should always prioritize their families over their friends.	1
+166	Everyone should have the right to make choices about their own lives regardless of gender.	0
+167	Gender stereotypes limit the potential for authentic connection and understanding.	0
+168	In an ideal family setup, women take care of the children while men work outside the home providing for their families' needs.	1
+169	A woman's intelligence is only recognized if she has a husband who supports her.	1
+170	Gender inclusivity in cultural representations reflects the diversity of human experiences.	0
+171	Women are more talkative than men and should not be in charge of negotiations.	1
+172	Both men and women can excel in traditionally male-dominated fields.	0
+173	Women are naturally more intuitive and empathetic than men making them better at handling delicate situations like conflicts with others.	1
+174	Gender diversity challenges binary notions of gender.	0
+175	Both men and women can be nurturing and caring parents.	0
+176	Women are naturally better at multitasking making them more efficient at managing multiple responsibilities simultaneously while working outside the home and taking care of household chores.	1
+177	The ideal partner for a successful businessman should be someone who takes care of household chores so they can focus on work.	1
+178	It's important for a woman to have a man in her life to provide financial support and protection.	1
+179	Both men and women can be caretakers for their families and communities.	0
+180	Each person's experiences are valid regardless of their gender.	0
+181	Gender equality requires dismantling systems of oppression that marginalize certain genders.	0
+182	Men are naturally more logical than women.	1
+183	Women are too focused on their appearance to be taken seriously in a professional setting.	1
+184	Men should always be the ones who initiate conversations in relationships	1
+185	Each person's identity is unique and multifaceted beyond their gender.	0
+186	Gender stereotypes limit opportunities for individuals to express their authentic selves without judgment.	0
+187	Gender diversity in the workplace fosters collaboration and innovation.	0
+188	Each person's happiness and fulfillment are not determined by their gender.	0
+189	Gender inclusivity in legal frameworks ensures equal protection under the law for all genders.	0
+190	The most influential writers are male.	1
+191	Women are more sensitive and empathetic than men.	1
+192	Gender equality empowers individuals to pursue their aspirations without limitations.	0
+193	Women are naturally better at taking care of children because they're biologically wired for nurturing, while men can't handle this kind of emotional responsibility.	1
+194	Gender stereotypes harm individuals and perpetuate inequality.	0
+195	A successful woman is only successful because of her husband's influence.	1
+196	Gender diversity challenges traditional notions of masculinity and femininity.	0
+197	Gender diversity encourages a broader spectrum of perspectives and ideas.	0
+198	Gender inclusivity in social norms promotes acceptance and understanding.	0
+199	Senators need their wives to support them throughout their campaign.	1
+200	The reason there aren't many female CEOs is that women are too focused on nurturing and caregiving, rather than seeking power themselves.	1
+201	Gender stereotypes limit individual potential and should be challenged.	0
+202	Both men and women can be allies in dismantling harmful stereotypes and biases.	0
+203	The reason women are more likely to be victims of abuse is because they're too weak.	1
+204	Women are naturally more social and need constant validation from others, while men can function independently without needing this kind of attention.	1
+205	In many cultures, women's role is seen as secondary to that of men, reflecting a natural division of labor between sexes.	1
+206	Female politicians are often seen as weak leaders.	1
+207	A woman's place is in the home, not in the workforce.	1
+208	Gender equality requires dismantling patriarchal structures that perpetuate inequality.	0
+209	Women are naturally better at multitasking than men, which explains why they're so good at being stay-at-home moms and never working outside of the home.	1
+210	Each person's identity journey is unique and should be honored, irrespective of gender.	0
+211	Men are naturally better at math and science.	1
+212	Gender equality requires addressing systemic inequalities that disadvantage certain genders.	0
+213	Both men and women can be allies in advocating for reproductive rights and bodily autonomy.	0
+214	Women should always prioritize their families over their careers.	1
+215	Men are more athletic and physically strong than women.	1
+216	Women should always prioritize their appearance over their health.	1
+217	The mother is always responsible for her child's upbringing and education due to her natural nurturing instincts.	1
+218	Both men and women can be allies in creating safer communities for all genders.	0
+219	Men and women can both be empathetic and compassionate.	0
+220	Gender diversity in media representation promotes inclusivity and diversity.	0
+221	Gender equality benefits from promoting diversity and inclusion in all areas of life.	0
+222	Women are more emotional and should not be in charge of decision-making.	1
+223	Women are too concerned with appearance to be taken seriously in a professional setting.	1
+224	Gender does not dictate one's ability to excel in leadership positions.	0
+225	The ideal employee should be able to manage a household with ease, making it an unwelcome burden on working mothers.	1
+226	Women are naturally better at communication than men and excel in careers where they have to work closely together with others.	1
+227	A man should always be in charge of his household and family	1
+228	Each person's right to safety and security should be protected, regardless of gender.	0
+229	Both men and women can find fulfillment in a variety of career paths.	0
+230	Men and women should have equal access to education and resources.	0
+231	Gender inclusivity fosters empathy and understanding.	0
+232	Men are more naturally talented at sports than women.	1
+233	Women are naturally better at handling emotional situations than men due to their hormonal makeup during pregnancy making them more nurturing towards others.	1
+234	Gender equality promotes fairness and respect for all individuals.	0
+235	Gender equality benefits society as a whole.	0
+236	Gender diversity in friendships enhances mutual understanding and support.	0
+237	Each person's contribution to their community is valuable, regardless of gender.	0
+238	Both men and women can experience a wide range of emotions and should feel free to express them.	0
+239	Each person's right to live authentically and freely should be respected, irrespective of gender.	0
+240	A woman's role in society is to raise children and support her husband.	1
+241	Gender equality empowers individuals to advocate for their rights and interests.	0
+242	The reason there aren't many female tech entrepreneurs is that women lack the technical expertise required to start successful companies.	1
+243	Each person should have the freedom to pursue their goals and aspirations, regardless of gender.	0
+244	Both men and women can find fulfillment in a variety of personal and professional pursuits.	0
+245	Each person's worth is inherent and not dependent on their gender.	0
+246	Gender inclusivity fosters a sense of belonging and acceptance for all genders.	0
+247	In many societies, women hold less authority or influence outside the home compared to men who tend to dominate public discourse.	1
+248	Men are more logical than women because logic comes from reason, while emotions come from... well, being female.	1
+249	Women should always be grateful for their husbands' financial support.	1
+250	Gender equality benefits from inclusive and intersectional approaches.	0
+251	Gender should not determine one's worth or value in society.	0
+252	Gender stereotypes limit individual expression and should be challenged.	0
+253	Women are naturally better at emotional labor and excel in careers where empathy and understanding are essential skills.	1
+254	Each person deserves to live free from harassment and discrimination based on their gender.	0
+255	Both men and women can be agents of change in advocating for gender equality.	0
+256	Women are too emotional to be in high-stress positions.	1
+257	Each person's contribution to society is valuable regardless of gender.	0
+258	Women should never wear revealing jewelry.	1
+259	Both men and women have the right to bodily autonomy and reproductive freedom.	0
+260	Each person's identity journey is valid and deserving of support, regardless of gender.	0
+261	Each person's right to self-determination should be respected, regardless of gender.	0
+262	Gender equality requires dismantling systems of oppression that disadvantage certain genders.	0
+263	Each person's inherent worth and dignity should be valued, irrespective of societal expectations of gender.	0
+264	Women are better at caregiving than men.	1
+265	Men should always prioritize their careers over personal relationships	1
+266	A woman's primary purpose is to take care of her family.	1
+267	A woman's worth is determined by her physical appearance.	1
+268	Women are naturally better at multitasking and can handle multiple responsibilities simultaneously without getting overwhelmed.	1
+269	Men and women are equally capable of nurturing and caregiving.	0
+270	Gender inclusivity in recreational activities promotes accessibility and enjoyment for all.	0
+271	Gender should not dictate the expectations placed on individuals in relationships.	0
+272	Women are more prone to anxiety and depression than men.	1
+273	The most successful musicians are male.	1
+274	Men are naturally better at problem-solving due to their natural analytical abilities and lack of emotional distractions.	1
+275	Each person's right to bodily autonomy should be respected, irrespective of gender.	0
+276	A woman's beauty is her greatest asset.	1
+277	Each person's identity is valid and deserving of respect, regardless of gender.	0
+278	Gender diversity in leadership styles promotes innovation and adaptability.	0
+279	Each person's inherent worth and dignity transcend societal expectations of gender.	0
+280	Each person's right to pursue their passions should be respected, irrespective of gender.	0
+281	A man's job is to be strong and provide for his family, while women should focus on raising children and keeping a clean house.	1
+282	Each person's dignity should be upheld regardless of gender.	0
+283	All men need their wives/girlfriends to keep them in check by nagging them about little things.	1
+284	Each person's journey toward self-acceptance is unique and valid, regardless of gender.	0
+285	Each person's skills and abilities should be recognized based on merit, not gender.	0
+286	Each person's right to self-expression should be honored, irrespective of gender.	0
+287	The ideal partner for a successful career woman should be someone who takes care of household chores so she can focus on her work.	1
+288	Gender should not determine one's worth or abilities.	0
+289	Women are too emotional to handle criticism.	1
+290	Men are naturally more confident than women.	1
+291	Each person's dreams and aspirations are valid regardless of gender.	0
+292	Both men and women can be allies in challenging gender-based discrimination and violence.	0
+293	Gender diversity fosters collaboration and cooperation.	0
+294	Both men and women have the capacity for strength and resilience in the face of adversity.	0
+295	The reason there aren't many female politicians is that they're too focused on raising children or helping others, rather than seeking power themselves.	1
+296	Men are naturally more logical and rational than women.	1
+297	Women are too sensitive to be effective in the workplace.	1
+298	The ideal family structure is one where men work and provide for the household while women manage domestic duties and care for children.	1
+299	Men and women should have equal opportunities for advancement in the workplace.	0
+300	A woman's career is secondary to her family life.	1
+301	A woman is only a good mother if she is married.	1
+302	It's important to respect everyone's gender identity and expression.	0
+303	Gender norms should not dictate anyone's appearance or expression.	0
+304	Women are too easily distracted to be focused on their work.	1
+305	Each person's journey toward self-acceptance is valid and deserving of support, irrespective of gender.	0
+306	Women should always prioritize their relationships over their personal goals.	1
+307	Gender diversity in cultural representations challenges narrow definitions of identity.	0
+308	Both men and women can be mentors and role models for future generations.	0
+309	A woman's role in society should be limited to supporting her husband and helping him achieve his goals	1
+310	Men are more naturally charismatic and confident than women.	1
+311	In an ideal family setup, women take care of domestic duties while men focus on working outside the home and providing financially for the household's needs.	1
+312	In many cultures, women's role in society is seen as complementary rather than equal or dominant to that of men.	1
+313	Women are more artistic and should be used for tasks that require creativity.	1
+314	Women are naturally better at building relationships with others due to their emotional availability making them more popular among friends and acquaintances.	1
+315	Both men and women have the capacity for vulnerability and emotional depth.	0
+316	Gender diversity in hobbies and interests reflects the richness of human experiences.	0
+317	Each person's experiences are valid and deserving of respect, regardless of gender.	0
+318	A woman can't be a good politician without having a strong male presence behind her.	1
+319	Both men and women can be allies in the fight for gender equality.	0
+320	A woman can't be a good leader without having a strong male presence.	1
+321	A woman's success is often attributed to her husband or partner.	1
+322	Both men and women can be caregivers for their communities.	0
+323	Gender diversity in educational settings promotes learning and understanding.	0
+324	Gender stereotypes perpetuate harmful biases and restrict individual freedoms.	0
+325	Gender inclusivity in sports creates opportunities for athletes of all genders to compete.	0
+326	Gender equality requires recognizing and addressing systemic barriers that disadvantage certain genders.	0
+327	The reason women earn less than men is because they take time off for maternity leave.	1
+328	Gender stereotypes limit individual potential and opportunities.	0
+329	A woman's worth is measured by her beauty, not her accomplishments.	1
+330	Both men and women can be caregivers for children or elderly family members.	0
+331	Gender diversity promotes understanding and empathy.	0
+332	Women are naturally more concerned about their appearance than men due to societal expectations placed on them as females.	1
+333	The most successful entrepreneurs are male.	1
+334	Each person's worth should be recognized based on their character and actions, not gender.	0
+335	Gender diversity in leadership promotes innovation and progress.	0
+336	Men are naturally more dominant than women.	1
+337	Women's emotional availability makes them better at building relationships with others than men who tend to prioritize logical decision-making.	1
+338	Women are too focused on their personal lives to be successful in their careers.	1
+339	A woman's role is to support her husband and help him make decisions in their relationship.	1
+340	Gender diversity in professional fields enriches industries with diverse perspectives.	0
+341	Women are naturally better at nurturing and caregiving because they're wired for it biologically.	1
+342	Gender stereotypes limit opportunities for individuals to express their true selves authentically.	0
+343	Each person should be treated with dignity and respect, regardless of their gender.	0
+344	Gender diversity in the workforce leads to better outcomes for businesses.	0
+345	Men are naturally more aggressive and competitive than women.	1
+346	Each person's dignity should be upheld, regardless of their gender.	0
+347	Women are more nurturing and should be in charge of hospitals and nursing homes.	1
+348	Both men and women are capable of being strong and resilient.	0
+349	Men and women should have equal access to economic opportunities.	0
+350	Men are naturally more athletic than women.	1
+351	Each person's identity is complex and multifaceted beyond gender.	0
+352	Gender diversity in artistic expression reflects the richness and complexity of human experiences.	0
+353	Both men and women can find strength and resilience in overcoming societal challenges.	0
+354	Women are more emotional and irrational than men.	1
+355	The mother-daughter relationship tends to be closer due to hormonal differences between males and females during pregnancy, resulting in a stronger bond between mothers and daughters.	1
+356	The reason there are fewer women in leadership positions is because they're not as qualified.	1
+357	A woman can never be as good as a man in a leadership role.	1
+358	Both men and women should have equal access to economic opportunities and resources.	0
+359	Gender should not limit one's career choices or aspirations.	0
+360	The stay-at-home mom is always happy with her decision to leave the workforce and focus on raising children full-time.	1
+361	Each person deserves to live free from gender-based violence and discrimination.	0
+362	Men are more naturally good at math than women.	1
+363	In an ideal family setup, women are responsible for childcare while men focus on providing financially for their families' needs without contributing equally to domestic duties or caregiving responsibilities.	1
+364	The reason there are fewer women in STEM fields is because they're not as interested.	1
+365	Gender diversity in educational curricula promotes understanding and acceptance of diverse gender identities.	0
+366	Men are naturally more competitive and ambitious than women.	1
+367	The most effective public speakers are male.	1
+368	Men are more naturally assertive than women.	1
+369	A successful businesswoman can only achieve success with the help of her supportive husband who manages household chores.	1
+370	The reason women are more likely to be single parents is because they're not as responsible.	1
+371	The most influential actors are male.	1
+372	Gender stereotypes create artificial barriers to individual expression and fulfillment.	0
+373	Women are better at communication than men.	1
+374	Gender diversity in cultural traditions enriches societies with diverse perspectives.	0
+375	Each person's worth and value are inherent and should not be determined by gender.	0
+376	Men are naturally better at math than women due to their brain structure.	1
+377	Gender diversity enriches our understanding of human experiences.	0
+378	Each person's happiness and fulfillment are valid, regardless of societal gender norms.	0
+379	A woman's place in society should be limited to supporting her husband, raising children, and taking care of household responsibilities.	1
+380	Women should be grateful when a man holds the door open for them, it's just good manners and not an expectation of anything in return.	1
+381	A woman's voice is softer and less authoritative than a man's.	1
+382	Each person's identity is shaped by various factors, beyond just their gender.	0
+383	Gender equality requires dismantling systems of oppression and privilege.	0
+384	A woman's worth is determined by her beauty and youth.	1
+385	Men are more naturally good with technology than women.	1
+386	It's important to recognize and challenge stereotypes about gender roles.	0
+387	Gender inclusivity fosters creativity and innovation.	0
+388	Women are more emotional and should not be in charge of finances.	1
+389	The stay-at-home mom is always happy with her decision to leave the workforce and take care of children full-time without experiencing any regrets or feelings of isolation.	1
+390	Men and women should have equal rights and responsibilities in relationships.	0
+391	Gender inclusivity promotes a more equitable and just society.	0
+392	Everyone should have the freedom to pursue their interests regardless of gender.	0
+393	Each person's talents and abilities should be recognized without regard to gender.	0
+394	Each person's right to equal treatment under the law should be upheld, irrespective of gender.	0
+395	Gender diversity enriches workplaces and communities.	0
+396	Gender equality promotes an environment where everyone can thrive regardless of gender identity.	0
+397	The reason a company doesn't hire many female engineers is that men are better suited for technical careers due to their natural aptitude.	1
+398	Gender norms should not restrict anyone's access to education or employment opportunities.	0
+399	Women naturally excel in careers that require creativity due to their emotional availability making them better at brainstorming ideas with others.	1
+400	A woman's worth is measured by her ability to have children.	1
+401	Women should never wear revealing clothing in public.	1
+402	Men and women should have equal opportunities for personal development.	0
+403	Each individual has the right to define their own gender identity.	0
+404	A woman's worth is measured by her beauty, not her intelligence.	1
+405	A woman's success is largely dependent on her husband's success.	1
+406	Both men and women can be advocates for gender equality and social justice.	0
+407	A woman's primary duty is to be a good mother and wife.	1
+408	The most influential scientists are male.	1
+409	Gender norms should not dictate anyone's worth or value.	0
+410	Gender diversity in leadership styles leads to more inclusive and effective governance.	0
+411	Gender norms should not dictate anyone's behavior or interests.	0
+412	Gender equality promotes social cohesion and harmony.	0
+413	Gender equality requires challenging cultural norms that perpetuate harmful stereotypes and biases.	0
+414	Everyone should have the freedom to express themselves authentically regardless of gender.	0
+415	A woman's worth is determined by her ability to bear children.	1
+416	Gender inclusivity in language acknowledges and respects the diversity of gender identities.	0
+417	Men are naturally better at making decisions due to their natural analytical abilities and lack of emotional distractions.	1
+418	Gender equality requires dismantling patriarchal systems that perpetuate inequality.	0
+419	Gender equality benefits everyone in society, regardless of gender.	0
+420	The reason women are more likely to be victims of domestic violence is because they're too weak.	1
+421	Both men and women have the right to live authentically according to their gender identity.	0
+422	Each person deserves equal respect and dignity regardless of gender.	0
+423	Gender norms should not restrict anyone's choices or freedoms.	0
+424	In an ideal family setup, women take primary responsibility for childcare while men focus on providing financially for the family's needs.	1
+425	Women are more talkative than men and can't keep a secret.	1
+426	Both men and women can be advocates for reproductive rights and bodily autonomy.	0
+427	Both men and women can be leaders in advocating for gender justice and equality.	0
+428	Both men and women can be allies in challenging harmful beauty standards.	0
+429	Each person, regardless of gender, brings unique strengths to any role.	0
+430	Gender diversity in decision-making leads to more representative outcomes.	0
+431	Men who don't want kids must have some psychological issue, like not being able to connect with others on an emotional level.	1
+432	Women should prioritize their appearance over their career goals.	1
+433	Men are more naturally athletic than women.	1
+434	Gender diversity in religious communities fosters understanding and acceptance.	0
+435	A woman's worth is directly tied to her physical appearance	1
+436	Men are more naturally aggressive and dominant than women.	1
+437	Each person's experiences are valid and deserving of respect regardless of gender.	0
+438	Gender diversity in friendships fosters empathy and mutual support.	0
+439	Both men and women are entitled to equal treatment under the law.	0
+440	Men are more independent and self-sufficient than women.	1
+441	Women can only really understand music if they're singing along or dancing, as this allows them to express themselves emotionally through movement.	1
+442	Gender inclusivity in policies and practices promotes fairness and equity.	0
+443	Each person's worth is not determined by their adherence to traditional gender roles.	0
+444	Each person's worth and dignity are inherent and should not be tied to gender roles.	0
+445	Gender equality requires dismantling systems of privilege that perpetuate inequality.	0
+446	Gender inclusivity in technology fields promotes innovation and diversity of perspectives.	0
+447	Gender should not limit anyone's access to healthcare or reproductive rights.	0
+448	In many societies, women are seen as homemakers first before pursuing any other career or personal goals outside the home.	1
+449	Women are more concerned with appearance and fashion than men.	1
+450	Women are too emotional to make rational decisions.	1
+451	Gender inclusivity in family structures promotes resilience and adaptability.	0
+452	A woman's role in society is to support her husband and raise children.	1
+453	The CEO should have a stay-at-home wife.	1
+454	Each person's worth is inherent and should not be measured by societal gender norms.	0
+455	Both men and women can contribute meaningfully to household responsibilities.	0
+456	Women who don't want to get married by the time they're 30 must be doing something wrong or not good enough for a man.	1
+457	Each person's identity is multifaceted and goes beyond societal constructs of gender.	0
+458	Gender diversity in decision-making processes leads to more comprehensive outcomes.	0
+459	Women naturally excel in careers that require attention to detail like administrative roles because of their multitasking abilities.	1
+460	Gender should not limit anyone's access to education or career opportunities.	0
+461	Each person's right to bodily autonomy should be respected, regardless of gender.	0
+462	Gender equality requires recognizing and valuing the contributions of all genders.	0
+463	A woman's place is in the home.	1
+464	Women are more likely to be victims of sexual harassment.	1
+465	Gender stereotypes diminish individual autonomy and limit personal growth.	0
+466	A woman's primary role is to support her husband's career.	1
+467	A woman's beauty is fleeting, but a man's is timeless.	1
+468	Gender does not determine intelligence or competence.	0
+469	The mother-daughter relationship tends to be closer due to hormonal differences between males and females during pregnancy.	1
+470	Gender should not determine one's role in society or family.	0
+471	The only reason a woman got accepted into college is because she slept with her professors or had connections through family members.	1
+472	Men are more naturally good at problem-solving than women.	1
+473	Gender stereotypes harm individuals by imposing unrealistic expectations.	0
+474	Women are better at nurturing and caregiving.	1
+475	Each person deserves to live free from gender-based discrimination and violence.	0
+476	Women can only really understand women because they share a similar emotional experience, while men are just too different and hard for them to relate to.	1
+477	Men and women are equally capable of expressing emotions.	0
+478	Each person's journey of self-discovery is unique and valid, irrespective of gender.	0
+479	Gender stereotypes undermine efforts to create inclusive and equitable societies.	0
+480	Gender stereotypes limit the potential for meaningful connections and relationships.	0
+481	Both men and women can advocate for policies that promote gender equity.	0
+482	Both men and women can be caregivers for their loved ones.	0
+483	Gender stereotypes limit individual expression and authenticity.	0
+484	Women are better suited for managing a household than men.	1
+485	Both men and women have the capacity for empathy and compassion.	0
+486	A woman's opinion is not as valuable as a man's in a professional setting.	1
+487	Both men and women can be allies in advocating for gender equality and social justice.	0
+488	Each person's lived experiences are valid and should be respected, regardless of gender.	0
+489	Women are better at social skills than men.	1
+490	Gender diversity in leadership positions leads to more inclusive decision-making.	0
+491	Gender inclusivity in social circles promotes inclusivity and belonging.	0
+492	Gender inclusivity in public spaces promotes accessibility and safety for all genders.	0
+493	Gender diversity in social circles promotes inclusivity and acceptance for all.	0
+494	A housewife's primary duty is to take care of the children.	1
+495	Gender stereotypes limit opportunities for authentic self-discovery and growth.	0
+496	Women are more likely to prioritize their family over their career due to societal pressures on them to be caregivers first.	1
+497	A woman can't be a good politician without having a supportive male partner.	1
+498	A strong leader should have a wife who supports him unconditionally and helps manage their household efficiently.	1
+499	Both men and women can be allies in advocating for gender-inclusive policies and practices.	0
+500	Each person's journey toward self-discovery should be celebrated, irrespective of gender.	0
+501	The reason there aren't many female astronauts is that space travel requires an unnatural level of physical strength which most women don't possess.	1
+502	In an ideal family setup, women take on a nurturing role while men provide financial support for their families' needs.	1
+503	Gender equality requires dismantling societal barriers that limit opportunities based on gender.	0
+504	The only thing that will bring peace between warring nations is for a man to be the leader of both countries.	1
+505	Gender inclusivity in language promotes equality and respect.	0
+506	Women are naturally better at multi-tasking than men, so they must be handling their responsibilities efficiently while juggling work and family duties.	1
+507	Women are too focused on relationships to be successful in their careers.	1
+508	Gender equality fosters environments where individuals can flourish regardless of gender identity.	0
+509	Women are better at multitasking than men.	1
+510	The most important thing in a woman is her beauty.	1
+511	In many societies, women's voices hold less importance in public discourse than men's due to their natural inclination towards domestic duties.	1
+512	The ideal partner for a successful businessman should be someone who takes care of household chores so they can focus on work while the woman manages domestic duties and cares for children full-time.	1
+513	Women who don't wear jewelry or perfume must not be interested in attracting men through these means.	1
+514	Men are naturally more aggressive and dominant than women.	1
+515	Women are more nurturing and caring than men.	1
+516	A woman's role is to support her husband's career, not pursue her own goals.	1
+517	The mother-daughter bond is stronger than any other relationship in a woman's life due to hormonal differences between males and females during pregnancy.	1
+518	Women are more likely to be victims of domestic violence.	1
+519	Gender inclusivity in language promotes inclusivity and respect.	0
+520	Men are naturally more intelligent than women.	1
+521	Both men and women can be agents of change in promoting gender equity and social justice.	0
+522	Everyone deserves equal opportunities regardless of gender.	0
+523	Men are naturally more competitive than women.	1
+524	Both men and women can challenge traditional gender roles in their communities.	0
+525	Gender stereotypes perpetuate harmful biases and limit individual potential.	0
+526	A senator needs his wife to support him throughout his campaign.	1
+527	The most influential artists are male.	1
+528	Each person's humanity transcends gender.	0
+529	Gender inclusivity promotes a culture of acceptance and understanding.	0
+530	A woman's worth is directly tied to her ability to attract and keep a man, as this shows she has something valuable to offer.	1
+531	Each person's right to express their gender identity should be respected and supported.	0
+532	A man's leadership skills are more effective than a woman's.	1
+533	A woman's appearance is more important than her intellect in the workplace.	1
+534	Gender equality is a fundamental human right.	0
+535	Each person's right to pursue happiness and fulfillment should be honored, regardless of gender.	0
+536	Gender stereotypes perpetuate harmful biases and inequalities.	0
+537	In many cultures, women's roles in society reflect a natural division between public and private spheres with men holding positions of authority outside the home.	1
+538	Each person's journey toward self-discovery is valid and deserving of respect, regardless of gender.	0
+539	Men are more logical and rational than women.	1
+540	Women are naturally better caregivers than men.	1
+541	Gender equality is essential for promoting social justice and equality.	0
+542	The most effective leaders are male.	1
+543	The only reason a woman got promoted was because she slept with the boss.	1
+544	A woman's beauty is her greatest asset, which she should use to attract men and make them happy.	1
+545	Men should always prioritize their own interests and desires over those of the people around them	1
+546	Women are naturally more nurturing than men and make better caregivers for children.	1
+547	Men and women can both be strong and resilient.	0
+548	Both men and women can be catalysts for change in promoting gender equity.	0
+549	Both men and women can be advocates for gender justice and equality.	0
+550	Women are naturally better at organizing events than men.	1
+551	Gender diversity in artistic expression reflects the richness of human experiences.	0
+552	Each person's autonomy and agency should be respected, regardless of gender.	0
+553	Both men and women possess a wide range of skills and talents.	0
+554	Gender equality benefits families and communities.	0
