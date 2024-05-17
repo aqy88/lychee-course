@@ -83,4 +83,4 @@ Doughman, J., & Khreich, W. (2022). Gender bias in text: Labeled datasets and le
 
 https://www.kaggle.com/datasets/dgrosz/sexist-workplace-statements
 
-Additional datasets constructed by Andy Yang, using `llama.cpp` [(LINK)](https://github.com/ggerganov/llama.cpp) and a pre-quantied Llama 3 model [(LINK)](https://huggingface.co/bartowski/Meta-Llama-3-8B-Instruct-GGUF).
+Additional datasets constructed by Andy Yang, using `llama.cpp` [(LINK)](https://github.com/ggerganov/llama.cpp) and a pre-quantized Llama 3 model [(LINK)](https://huggingface.co/bartowski/Meta-Llama-3-8B-Instruct-GGUF).
