@@ -1,6 +1,7 @@
 import csv
 import random
 import pandas as pd
+import sys
 from datasets import Dataset
 
 def shuffle_and_add_id(input_file, output_file):
@@ -62,11 +63,13 @@ def create_huggingface_dataset(tsv_file, output_dir):
     dataset.save_to_disk(output_dir)
 
 if __name__ == "__main__":
-    input_file = 'aggregate_data.tsv'
+    # input_file = input("Enter the path to the input TSV file: ")
     # base_file = input("Enter the path to the base TSV file: ")
     # output_file = input("Enter the path to the output TSV file: ")
-    output_dir = 'dataset-0'
+    # output_dir = input("Enter the path to the data output directory: ")
     
+    input_file = sys.argv[1]
+    output_dir = sys.argv[2]
     create_huggingface_dataset(input_file, output_dir)
     # shuffle_and_add_id(input_file, output_file)
     # process_and_append_tsv(input_file, base_file, output_file)
