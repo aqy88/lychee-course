@@ -1,5 +1,7 @@
 import csv
 import random
+import pandas as pd
+from datasets import Dataset
 
 def shuffle_and_add_id(input_file, output_file):
     # Read the input CSV file
@@ -48,13 +50,25 @@ def process_and_append_tsv(input_file, base_file, output_file, start_id=554):
 
         # Write the modified input data
         writer.writerows(data)
+
+def create_huggingface_dataset(tsv_file, output_dir):
+    # Read the TSV file into a pandas DataFrame
+    df = pd.read_csv(tsv_file, delimiter='\t', encoding='utf-8', encoding_errors='ignore')
+
+    # Convert the pandas DataFrame to a Hugging Face Dataset
+    dataset = Dataset.from_pandas(df)
+
+    # Save the dataset to the specified output directory
+    dataset.save_to_disk(output_dir)
+
 if __name__ == "__main__":
-    # input_file = input("Enter the path to the input CSV file: ")
-    # output_file = input("Enter the path to the output CSV file: ")
-    #shuffle_and_add_id(input_file, output_file)
-    # print("CSV file has been processed.")
     input_file = input("Enter the path to the input TSV file: ")
-    base_file = input("Enter the path to the base TSV file: ")
-    output_file = input("Enter the path to the output TSV file: ")
-    process_and_append_tsv(input_file, base_file, output_file)
-    print("TSV files have been processed and combined.")
+    # base_file = input("Enter the path to the base TSV file: ")
+    # output_file = input("Enter the path to the output TSV file: ")
+    output_dir = input("Enter output dir: ")
+    
+    create_huggingface_dataset(input_file, output_dir)
+    # shuffle_and_add_id(input_file, output_file)
+    # process_and_append_tsv(input_file, base_file, output_file)
+    
+    print("Script complete.")
