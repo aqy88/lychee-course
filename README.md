@@ -1,4 +1,4 @@
-# Lychee's Class
+# An Introductory Exploration of Gender Bias Analysis with an NB Classifier vs Transformer Model
 
 ## Overview
 This project uses JupyterLab, a web-based interactive development environment (IDE) that uses "notebooks" to better organize code and data. You will only need to install Docker Engine, then run two scripts to get started!
@@ -73,7 +73,7 @@ To stop running JupyterLab, run the stop script. You may start and stop JupyterL
 
 ## Sources
 
-### Citations
+### Paper Citations
 
 Kalra, A., & Zubiaga, A. (2021). Sexism identification in tweets and gabs using deep neural networks. *arXiv preprint arXiv:2111.03612*.
 
@@ -84,3 +84,9 @@ Doughman, J., & Khreich, W. (2022). Gender bias in text: Labeled datasets and le
 https://www.kaggle.com/datasets/dgrosz/sexist-workplace-statements
 
 Additional datasets constructed by Andy Yang, using `llama.cpp` [(LINK)](https://github.com/ggerganov/llama.cpp) and a pre-quantized Llama 3 model [(LINK)](https://huggingface.co/bartowski/Meta-Llama-3-8B-Instruct-GGUF).
+
+### Online Guides
+
+NB classifier developed from [this Coursera course](https://www.coursera.org/learn/twitter-sentiment-analysis/).
+
+Transformer model-based text classification derived from [DistilBERT base model (uncased)](https://huggingface.co/distilbert/distilbert-base-uncased).
