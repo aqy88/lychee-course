@@ -4,3 +4,6 @@ data-volume/.DS_Store
 
 # Ignore JupytrLab Notebook checkpoints.
 data-volume/.ipynb_checkpoints/*
+
+# Ignore generated HF dataset files
+data-volume/dataset/*.arrow
