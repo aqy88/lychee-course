@@ -6,4 +6,4 @@ data-volume/.DS_Store
 data-volume/.ipynb_checkpoints/*
 
 # Ignore generated HF dataset files
-data-volume/dataset/*.arrow
+data-volume/model_output_dir/

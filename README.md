@@ -1,13 +1,13 @@
 # Lychee's Class
 
 ## Overview
-This project uses JupyterLab, a web-based interactive development environment (IDE) that uses "notebooks" to better organize code and data. You will only need to install Git, Docker Engine, then two scripts to get started!
+This project uses JupyterLab, a web-based interactive development environment (IDE) that uses "notebooks" to better organize code and data. You will only need to install Docker Engine, then run two scripts to get started!
 
 Using Python and a handful of open source packages, you will learn to apply open source machine learning tools in the context of gender bias in supervised learning. Topics covered include:
 - Studying the structure of "features" in training data sets.
 - Explore a data set and perform basic "preprocessing" techniques.
 - Create visualizations.
-- Train a naive Bayes classifier while examining the potential and limitations of machine learning.
+- Train a naive Bayes classifier and LLM while examining the potential and limitations of machine learning.
 
 ### Setup
 The setup for this project focuses on Linux-based operating systems, and is not readily compatible with Windows without some tinkering. In particular, this guide is focused on setting up the requisite software and tools on MacOS.
@@ -26,6 +26,8 @@ Follow the steps [here](https://docs.docker.com/desktop/install/mac-install/) to
 NOTE: There are two download links, only one of which you will need to use. Click on the Apple logo on the top left of your screen, then "About." The "Processor" field should indicate if your chip is Intel or Apple; use the appropriate download link.
 
 After installation and restarting your machine, make sure Docker Engine is running.
+
+NOTE: If a dialog box says the "kernel" has "died" while running the notebooks, you may need to increase the memory allocated to Docker (Open Docker => Click gearbox (settings) => Resources).
 
 ### Getting Started
 
@@ -69,3 +71,16 @@ To stop running JupyterLab, run the stop script. You may start and stop JupyterL
 ./stop.sh
 ```
 
+## Sources
+
+### Citations
+
+Kalra, A., & Zubiaga, A. (2021). Sexism identification in tweets and gabs using deep neural networks. *arXiv preprint arXiv:2111.03612*.
+
+Doughman, J., & Khreich, W. (2022). Gender bias in text: Labeled datasets and lexicons. *arXiv preprint arXiv:2201.08675*.
+
+### Datasets
+
+https://www.kaggle.com/datasets/dgrosz/sexist-workplace-statements
+
+Additional datasets constructed by Andy Yang, using `llama.cpp` [(LINK)](https://github.com/ggerganov/llama.cpp) and a pre-quantied Llama 3 model [(LINK)](https://huggingface.co/bartowski/Meta-Llama-3-8B-Instruct-GGUF).

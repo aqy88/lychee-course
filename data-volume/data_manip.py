@@ -62,10 +62,10 @@ def create_huggingface_dataset(tsv_file, output_dir):
     dataset.save_to_disk(output_dir)
 
 if __name__ == "__main__":
-    input_file = input("Enter the path to the input TSV file: ")
+    input_file = 'aggregate_data.tsv'
     # base_file = input("Enter the path to the base TSV file: ")
     # output_file = input("Enter the path to the output TSV file: ")
-    output_dir = input("Enter output dir: ")
+    output_dir = 'dataset-0'
     
     create_huggingface_dataset(input_file, output_dir)
     # shuffle_and_add_id(input_file, output_file)
