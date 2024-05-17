@@ -71,6 +71,18 @@ To stop running JupyterLab, run the stop script. You may start and stop JupyterL
 ./stop.sh
 ```
 
+### Converting TSV Data into Hugging Face-compatible Dataset
+
+The `.tsv` files that the NB classifier uses are not directly compatible for use with `transformer_exercise.ipynb`. The data in `aggregate_data.tsv` has already been converted for use with Hugging Faces into the `dataset` directory, but the `data_manip.py` script provided allows for an enabled user to do this conversion as well.
+
+```bash
+# Ideally, `cd` into ./data-volume dir to run this script.
+# python ./data_manip.py <input TSV file here> <desired output directory here>
+python ./data_manip.py aggregate_data.tsv output-data-dir/
+```
+
+The output directory for the converted dataset should be swapped into the top dataset loading command in `transformer_exercise.ipynb`.
+
 ## Sources
 
 ### Paper Citations
