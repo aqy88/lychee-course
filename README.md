@@ -1,4 +1,4 @@
-# An Introductory Exploration of Gender Bias Analysis with an NB Classifier vs Transformer Model
+# An Introductory Exploration of Gender Bias Analysis with an NB Classifier vs Distilled LLM
 
 ## Overview
 This project uses JupyterLab, a web-based interactive development environment (IDE) that uses "notebooks" to better organize code and data. You will only need to install Docker Engine, then run two scripts to get started!
@@ -7,7 +7,7 @@ Using Python and a handful of open source packages, you will learn to apply open
 - Studying the structure of "features" in training data sets.
 - Explore a data set and perform basic "preprocessing" techniques.
 - Create visualizations.
-- Train a naive Bayes classifier and LLM while examining the potential and limitations of machine learning.
+- Train a naive Bayes classifier and distilled LLM while examining the potential and limitations of machine learning.
 
 ### Setup
 The setup for this project focuses on Linux-based operating systems, and is not readily compatible with Windows without some tinkering. In particular, this guide is focused on setting up the requisite software and tools on MacOS.
@@ -101,4 +101,4 @@ Additional datasets constructed by Andy Yang, using `llama.cpp` [(LINK)](https:/
 
 NB classifier developed from [this Coursera course](https://www.coursera.org/learn/twitter-sentiment-analysis/).
 
-Transformer model-based text classification derived from [DistilBERT base model (uncased)](https://huggingface.co/distilbert/distilbert-base-uncased). More documentation [here](https://huggingface.co/docs/transformers/en/model_doc/distilbert).
+Transformer model-based text classification derived from [DistilBERT base model (uncased)](https://huggingface.co/distilbert/distilbert-base-uncased). More documentation [here](https://huggingface.co/docs/transformers/en/model_doc/distilbert) and a good blog post [here](https://medium.com/huggingface/distilbert-8cf3380435b5).
