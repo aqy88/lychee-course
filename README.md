@@ -101,4 +101,4 @@ Additional datasets constructed by Andy Yang, using `llama.cpp` [(LINK)](https:/
 
 NB classifier developed from [this Coursera course](https://www.coursera.org/learn/twitter-sentiment-analysis/).
 
-Transformer model-based text classification derived from [DistilBERT base model (uncased)](https://huggingface.co/distilbert/distilbert-base-uncased).
+Transformer model-based text classification derived from [DistilBERT base model (uncased)](https://huggingface.co/distilbert/distilbert-base-uncased). More documentation [here](https://huggingface.co/docs/transformers/en/model_doc/distilbert).
