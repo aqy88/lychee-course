@@ -7,7 +7,7 @@ Using Python and a handful of open source packages, you will learn to apply open
 - Studying the structure of "features" in training data sets.
 - Explore a data set and perform basic "preprocessing" techniques.
 - Create visualizations.
-- Train a naive Bayes classifier and distilled LLM while examining the potential and limitations of machine learning.
+- Train a naive Bayes classifier and distilled pre-trained LLM while examining the potential and limitations of machine learning.
 
 ### Setup
 The setup for this project focuses on Linux-based operating systems, and is not readily compatible with Windows without some tinkering. In particular, this guide is focused on setting up the requisite software and tools on MacOS.
@@ -73,7 +73,7 @@ To stop running JupyterLab, run the stop script. You may start and stop JupyterL
 
 ### Converting TSV Data into Hugging Face-compatible Dataset
 
-The `.tsv` files that the NB classifier uses are not directly compatible for use with `transformer_exercise.ipynb`. The data in `aggregate_data.tsv` has already been converted for use with Hugging Faces into the `dataset` directory, but the `data_manip.py` script provided allows for an enabled user to do this conversion as well.
+The `.tsv` files that the NB classifier uses are not directly compatible for use with `distilled-llm_exercise.ipynb`. The data in `aggregate_data.tsv` has already been converted for use with Hugging Faces into the `dataset` directory, but the `data_manip.py` script provided allows for an enabled user to do this conversion as well.
 
 ```bash
 # Ideally, `cd` into ./data-volume dir to run this script.
@@ -81,7 +81,7 @@ The `.tsv` files that the NB classifier uses are not directly compatible for use
 python ./data_manip.py aggregate_data.tsv output-data-dir/
 ```
 
-The output directory for the converted dataset should be swapped into the top dataset loading command in `transformer_exercise.ipynb`.
+The output directory for the converted dataset should be swapped into the top dataset loading command in `distilled-llm_exercise.ipynb`.
 
 ## Sources
 
@@ -93,7 +93,9 @@ Doughman, J., & Khreich, W. (2022). Gender bias in text: Labeled datasets and le
 
 ### Datasets
 
-https://www.kaggle.com/datasets/dgrosz/sexist-workplace-statements
+[https://www.kaggle.com/datasets/dgrosz/sexist-workplace-statements](https://www.kaggle.com/datasets/dgrosz/sexist-workplace-statements)
+
+[https://github.com/khahnmad/DSP/blob/main/sexism_data.csv](https://github.com/khahnmad/DSP/blob/main/sexism_data.csv)
 
 Additional datasets constructed by Andy Yang, using `llama.cpp` [(LINK)](https://github.com/ggerganov/llama.cpp) and a pre-quantized Llama 3 model [(LINK)](https://huggingface.co/bartowski/Meta-Llama-3-8B-Instruct-GGUF).
 
@@ -101,4 +103,4 @@ Additional datasets constructed by Andy Yang, using `llama.cpp` [(LINK)](https:/
 
 NB classifier developed from [this Coursera course](https://www.coursera.org/learn/twitter-sentiment-analysis/).
 
-Transformer model-based text classification derived from [DistilBERT base model (uncased)](https://huggingface.co/distilbert/distilbert-base-uncased). More documentation [here](https://huggingface.co/docs/transformers/en/model_doc/distilbert) and a good blog post [here](https://medium.com/huggingface/distilbert-8cf3380435b5).
+Distilled LLM sentiment analysis exercise derived from [DistilBERT base model (uncased)](https://huggingface.co/distilbert/distilbert-base-uncased). More documentation [here](https://huggingface.co/docs/transformers/en/model_doc/distilbert) and a good blog post [here](https://medium.com/huggingface/distilbert-8cf3380435b5).
