@@ -92,7 +92,7 @@ Congratulations! You've now successfully used ChatGPT to save yourself the effor
 ### Example Working Prompt
 
 ```
-Give me a Python script that accepts a `.csv` file as input, to drop (remove) columns "dataset", "of_id", and "toxicity", rename the `text` column to `sentence` and `sexist` to `label`, keep the `id` column, then map the `label` column's values to `0` and `1` from `FALSE` and `TRUE` respectively. Then, output the data into a Hugging Face dataset directory using `save_to_disk`. Do NOT use the pandas library.
+Give me a Python script that accepts a `.csv` file as input, to drop (remove) columns "dataset", "of_id", and "toxicity", rename the `text` column to `sentence` and `sexist` to `label`, keep the `id` column, then map the `label` column's values to `0` and `1` from `FALSE` and `TRUE` respectively. Then, output the data into a Hugging Face dataset directory using `save_to_disk`. Do NOT use the pandas library. Do not use any data splits.
 ```
 
 ### Example Working Script
