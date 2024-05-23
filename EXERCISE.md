@@ -46,7 +46,7 @@ To test our script with minimal setup, we will use the Jupyter Lab instance you'
 3. Paste in the generated script.
 ![step_3](https://imgur.com/W8qW6zp.png)
 4. Check the script.
-It's more than likely that the generated script will include a block of code resembling these:
+It's more than likely that the generated script will include a block of code defining file paths to an `input_file` and `output_file`. Don't worry if your generated script differs slightly in appearance from this example:
 ```
 if  __name__  ==  "__main__":
     input_file  =  'input.csv'  # Replace with your input file path
@@ -73,7 +73,11 @@ It should respond with a revised script. You can continue to prompt ChatGPT and 
 ### Step 4. Complete the script.
 Earlier on, it was mentioned that  `distilled-llm_exercise.ipynb` imports a dataset from a directory that contains data files compatible with the Hugging Face `datasets` Python library. Now that we have tested and verified that our script cleans up the input dataset in the way that we want, we can tell ChatGPT to output the cleaned dataset into a directory compatible with Hugging Face `datasets`. 
 
-`distilled-llm_exercise.ipynb` also uses `load_from_disk()` to import the data, which means, according to the Hugging Face documentation, we must create the saved data with `save_to_disk()`. Incorporating the feedback from the above investigation and the need to save data with `save_to_disk()`, rewrite a single prompt that meets all of our needs, then run the provided script. Take note of the `output_dir` field.
+`distilled-llm_exercise.ipynb` also uses `load_from_disk()` to import the data, which means, according to the Hugging Face documentation, we must create the saved data with `save_to_disk()`.
+
+Incorporating the feedback from the above investigation and the need to save data with `save_to_disk()`, rewrite a single prompt that meets all of our needs, asking the script to use `save_to_disk()` to output our modified CSV into a Hugging Face dataset. Run the provided script to create our Hugging Face dataset and take note of the `output_dir` field.
+
+**NOTE**: You will need to append this sentence to the end of your prompt: "Do not use any data splits." ChatGPT may attempt to put all of our data into a single "split" (a high-level category of sorts) called "data," which is useless to us and does not meet our needs, as `distilled-llm_exercise.ipynb` has code that will handle training & test data splits for us.
 
 ### Step 5. Plug and play!
 If your script is working correctly, you should see something like this at the bottom of your notebook running the script:
