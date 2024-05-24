@@ -7,7 +7,7 @@ Using Python and a handful of open source packages, you will learn to apply open
 - Studying the structure of "features" in training data sets.
 - Explore a data set and perform basic "preprocessing" techniques.
 - Create visualizations.
-- Train a naive Bayes classifier and distilled pre-trained LLM while examining the potential and limitations of machine learning.
+- Train and compare a traditional NLP (natural language processing) naive Bayesian classifier and finetuned distilled pre-trained LLM while examining the potential and limitations of machine learning techniques.
 
 ### Setup
 The setup for this project focuses on Linux-based operating systems, and is not readily compatible with Windows without some tinkering. In particular, this guide is focused on setting up the requisite software and tools on MacOS.
